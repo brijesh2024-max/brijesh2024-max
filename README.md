@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://github.com/brijesh2024-max/brijesh2024-max/blob/main/images.jpeg)
+![Banner](https://github.com/brijeshgaur123/brijeshgaur123/blob/main/images.jpeg)
 
 # 👋 Hi, I'm Brijesh Gaur  
 
