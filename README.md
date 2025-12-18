@@ -1,16 +1,64 @@
-## Hi there 👋
+<!-- Banner Image -->
+![Banner](https://github.com/brijesh2024-max/brijesh2024-max/blob/main/images.jpeg)
 
-<!--
-**brijesh2024-max/brijesh2024-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Brijesh Gaur  
 
-Here are some ideas to get you started:
+🎓 B.Tech (ECE) @ NIT Srinagar  
+💻 Aspiring Software Engineer | Internship-Seeker (2025)  
+🚀 Focused on DSA, Core CS & Real-World Projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Career Objective
+Motivated engineering student transitioning from **ECE → Software Engineering**,  
+actively preparing for **SDE internships** by building strong fundamentals in  
+**Data Structures, Algorithms, and Object-Oriented Programming**.
+
+---
+
+## 🧠 Currently Working On
+- 📘 **DSA in Java** (Arrays → Trees → Graphs)
+- 🧩 **Problem Solving** (LeetCode / GFG / CP)
+- ⚙️ **Core CS Foundations** (OOP, DBMS, OS – upcoming)
+- 🛠 Building **small but meaningful projects**
+
+---
+
+## 🛠️ Technical Skills
+**Languages**
+- C, Java, Python  
+
+**CS Fundamentals**
+- Data Structures & Algorithms  
+- Object-Oriented Programming (OOP)
+
+**Web Basics**
+- HTML, CSS  
+
+**Tools**
+- Git, GitHub, VS Code  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brijesh2024-max&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brijesh2024-max&layout=compact&theme=radical)
+
+---
+
+## 🏆 What I Bring
+- ✅ Consistency in learning & problem-solving  
+- ✅ Strong analytical mindset from ECE background  
+- ✅ Willingness to learn fast and build from scratch  
+- ✅ Open to mentorship & feedback  
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brijesh-gaur-00671a32b)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bk256635@gmail.com)
+
+---
+
+✨ *“Discipline beats motivation when motivation fades.”*
